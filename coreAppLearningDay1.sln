@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication8", "WebApplication8\WebApplication8.csproj", "{E1649755-39C2-4576-A8E7-0E4D23256983}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{3B8C1213-6576-4AF6-9CB2-9959F6DACF88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{E1649755-39C2-4576-A8E7-0E4D23256983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1649755-39C2-4576-A8E7-0E4D23256983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1649755-39C2-4576-A8E7-0E4D23256983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8C1213-6576-4AF6-9CB2-9959F6DACF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8C1213-6576-4AF6-9CB2-9959F6DACF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
